@@ -1,6 +1,6 @@
 # Exploratory Data Analysis -- Class Project 2
 #  Mark Anderson
-#  plot1.R
+#  plot3.R
 
 # Q: Of the four types of sources indicated by the type 
 # (point, nonpoint, onroad, nonroad) variable, which of these 
